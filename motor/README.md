@@ -1,4 +1,6 @@
-setting GPIO as PWM : at terminal
+
+
+**setting GPIO as PWM : at terminal**
 
 sudo /opt/nvidia/jetson-io/jetson-io.py
 
@@ -12,7 +14,7 @@ save / save and reboot
 
 --------------------------------------
 
-download vscode : AT  terminal
+**download vscode : AT  terminal**
 
 git clone https://github.com/JetsonHacksNano/installVSCode.git
 
@@ -24,7 +26,7 @@ code
 
 -------------------------------------------------
 
-motor folder
+**motor folder**
 
 -survo_motor : actuating survo motor using PWM (SG90)
 
