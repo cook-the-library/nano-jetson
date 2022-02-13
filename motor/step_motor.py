@@ -1,4 +1,4 @@
-from dc_motor_control import Motor
+from step_motor_control import Motor
 import time
 
 IN1=21 #FirstPin = A
